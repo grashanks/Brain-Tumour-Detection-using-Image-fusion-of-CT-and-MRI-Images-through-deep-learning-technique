@@ -1,6 +1,6 @@
 # Brain Tumor Detection using CT–MRI Image Fusion (Deep Learning)
 
-> RRIT, Batch 34, Dept. of CSE — Deep Learning pipeline for brain tumor detection via CT+MRI fusion.
+> Deep Learning pipeline for brain tumor detection via CT+MRI fusion.
 
 ---
 
@@ -67,13 +67,10 @@ brain_tumor_project/
 
 ## Setup
 
-- **Step 1** — Clone the repo and navigate into it:
-  ```bash
-  git clone https://github.com/Manasisbyali234/brain_tumor.git
-  cd brain_tumor
-  ```
+- 
+  
 
-- **Step 2** — Install dependencies:
+- **Step** — Install dependencies:
   ```bash
   pip install -r requirements.txt
   ```
